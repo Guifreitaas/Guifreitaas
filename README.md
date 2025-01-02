@@ -5,11 +5,11 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Guilherme, a passionate Data and Engineering !
+  Hi 👋, I'm Guilherme, a passionate Data and Engineering!
 
-  - 👨‍💻 I’m currently studying for a Higher Diploma in Science in Data Analytics at CCT in Dublin
+  - 👨‍💻 I’m currently studying for a Higher Diploma in Science in Data Analytics at CCT in Dublin.
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with Data Analyst 
+  - 🔭 I am looking for my first job opportunity. My dream is to one day work with Data Analyst. 
 </p>
 
 <!-- Dropdown -->
@@ -22,11 +22,11 @@
 </details>
 
 <!-- Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermefreitas-eng)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guifreitaas) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@freeeitinhas) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/FREEIITIINHAAS) 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Tinhasdodesign) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermefreitas-eng)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guifreitaas) 
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@freeeitinhas) 
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/FREEIITIINHAAS) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=Behance&logoColor=white)](https://behance.net/Tinhasdodesign) 
 
 <!-- GithubStats -->
 
