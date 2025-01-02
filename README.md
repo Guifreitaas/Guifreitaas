@@ -30,11 +30,16 @@
 
 <!-- GithubStats -->
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=guifreitaas&theme=dark&hide_border=false&include_all_commits=true&count_private=false" style="width: 400px; height: auto; margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guifreitaas&theme=dark&hide_border=false" style="width: 400px; height: auto;" />
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img 
+        src="https://github-readme-stats.vercel.app/api?username=guifreitaas&theme=dark&hide_border=false&include_all_commits=true&count_private=false" 
+        style="margin-right: 10px; width: 495px;" 
+    />
+    <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=guifreitaas&theme=dark&hide_border=false"
+        style="width: 495px;"
+    />
 </div>
-
 <!-- Portfolio -->
 ## Portfolio:
 
