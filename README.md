@@ -7,7 +7,7 @@
 <p>
   Hi 👋, I'm Guilherme, a passionate Data and Engineering!
 
-  - 👨‍💻 I’m currently studying for a Higher Diploma in Science in Data Analytics at CCT in Dublin.
+  - 👨‍💻 I’m currently studying for a Higher Diploma in Science in Data Analytics at City College in Dublin.
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with Data Analyst. 
 </p>
