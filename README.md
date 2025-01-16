@@ -8,7 +8,6 @@
   Hi 👋, I'm Guilherme, a passionate Data and Engineering!
 
   - 👨‍💻 I’m currently studying for a Higher Diploma in Science in Data Analytics at City College in Dublin.
-
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with Data Analyst. 
 </p>
 
@@ -16,7 +15,7 @@
 <details>
   <summary>🔎 More about me</summary>
 
-  - 💬 I am 27 years old and currently living in Ireland. I am fluent in English and I have experience with SQL, Python, Data Analysis, and Data Visualization. I have a background in civil engineering, where I worked for 4 years in Brazil, and I have also lived in Malta.
+  - 💬 I am 27 years old and currently living in Ireland. I am fluent in English and have experience with SQL, Python, Data Analysis, and Data Visualization. I have a background in civil engineering, having worked for 4 years in Brazil, as well as experience as a graphic designer. Additionally, I have also lived in Malta.
 
   - ⚡ I enjoy playing online games, learning musical instruments, and traveling the world! I think our personal interests help us see things more clearly and solve problems in creative ways!
 </details>
@@ -36,6 +35,7 @@
 ## Portfolio:
 
 
+
 ## 🔥 Skills
 
 <!-- Skills: Programming Languages -->
@@ -45,6 +45,8 @@
     <h3>Programming Languages</h3>
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="30" height="30" />
     
   </div>
   
