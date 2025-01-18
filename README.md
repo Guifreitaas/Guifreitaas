@@ -1,25 +1,20 @@
-<!--título-->
-<div id="user-content-toc" style="text-align: left;">
-  <h2 style="display: inline-block;">Hello, World!</h2>
-</div>
+## Hi There! 👋 I'm Guilherme
 
 <!-- Presentation -->
-<p>
- Hi there! 👋 I'm Guilherme
-    
-  ▪ 👨‍💻 Data Analytics student with a Civil Engineering background. Passionate about turning data into actionable insights.
+### About me
 
-</p>
+  Data Analytics student with a Civil Engineering background, currently based in Ireland. Passionate about turning data into actionable insights.
+<!-- Links -->
+[![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermefreitas-eng)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=Behance&logoColor=white)](https://behance.net/Tinhasdodesign) 
 
-🔭 **Current Focus**  
+### 🔭 Current Focus 
 ▪ Seeking Data Analyst roles  
 ▪ Building portfolio projects in data analysis and visualization  
 ▪ Expanding SQL, Python skills with focus on data science libraries
 
 
-<!-- Links -->
-[![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermefreitas-eng)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=Behance&logoColor=white)](https://behance.net/Tinhasdodesign) 
+
 
 <!-- GithubStats -->
 
