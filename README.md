@@ -28,7 +28,7 @@
 
 <!-- GithubStats -->
 
-# 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=guifreitaas&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=guifreitaas&theme=one_dark_pro&hide_border=false)<br/>
 
