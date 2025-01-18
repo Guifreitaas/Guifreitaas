@@ -5,10 +5,9 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Guilherme, a passionate Data and Engineering!
+ Hi there! 👋 I'm Guilherme
     
-  ▪ 👨‍💻 I’m currently studying for a Higher Diploma in Science in Data Analytics at City College in Dublin.  
-  ▪ 🔭 I am looking for my first job opportunity. My dream is to one day work as a Data Analyst.
+  ▪ 👨‍💻 Data Analytics student with a Civil Engineering background. Passionate about turning data into actionable insights.
 
 </p>
 
