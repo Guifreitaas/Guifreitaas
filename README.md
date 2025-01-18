@@ -36,9 +36,12 @@
  [Querying and Analyzing - Shopping Trend](https://github.com/Guifreitaas/SQL_Data_Query)
 
 
+## Certifications
 
+- Google Data Analytics Professional Certificate
+- Microsoft Certified: Power BI Data Analyst Associate
 
-## 🔥 Skills
+## Skills
 
 <!-- Skills: Programming Languages -->
 
