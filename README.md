@@ -15,9 +15,9 @@
 <details>
   <summary>🔎 More about me</summary>
 
-  - 💬 I am 27 years old and currently living in Ireland. I am fluent in English and have experience with SQL, Python, Data Analysis, and Data Visualization. I have a background in civil engineering, having worked for 4 years in Brazil, as well as experience as a graphic designer. Additionally, I have also lived in Malta.
+  - I am 27 years old and currently living in Ireland. I am fluent in English and have experience with SQL, Python, Data Analysis, and Data Visualization. I have a background in civil engineering, having worked for 4 years in Brazil, as well as experience as a graphic designer. Additionally, I have also lived in Malta.
 
-  - ⚡ I enjoy playing online games, learning musical instruments, and traveling the world! I think our personal interests help us see things more clearly and solve problems in creative ways!
+  - I enjoy playing online games, learning musical instruments, and traveling the world! I think our personal interests help us see things more clearly and solve problems in creative ways!
 </details>
 
 <!-- Links -->
