@@ -12,15 +12,11 @@
 
 </p>
 
-<!-- Dropdown -->
-<details>
-  <summary>🔎 More about me</summary>
-  
-  <br>
-<p>▪  I am 27 years old and currently living in Ireland. I am fluent in English and have experience with SQL, Python, Data Analysis, and Data Visualization. I have a background in civil engineering, having worked for 4 years in Brazil, as well as experience as a graphic designer. Additionally, I have also lived in Malta. </p> 
-  
-▪  I enjoy playing online games, learning musical instruments, and traveling the world! I think our personal interests help us see things more clearly and solve problems in creative ways!
-</details>
+🔭 **Current Focus**  
+▪ Seeking Data Analyst roles  
+▪ Building portfolio projects in data analysis and visualization  
+▪ Expanding SQL, Python skills with focus on data science libraries
+
 
 <!-- Links -->
 [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermefreitas-eng)
@@ -42,8 +38,11 @@
 
 ## Certifications
 
-▪ Google Data Analytics Professional Certificate  
-▪ Microsoft Certified: Power BI Data Analyst Associate
+▪ Higher Diploma in Science in Data Analytics (Ongoing) - City College, Ireland  
+▪ Data Analytics Professional Certificate - Google  
+▪ Power BI Data Analyst Associate - Microsoft  
+▪ Civil Engineering Degree - Mackenzie, Brazil
+
 
 
 ## Skills
