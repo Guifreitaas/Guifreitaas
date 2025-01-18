@@ -33,6 +33,7 @@
 <!-- Portfolio -->
 
 ## Portfolio:
+[Querying and analyzing - Shopping Trend]([https://link-do-portfolio.com](https://github.com/Guifreitaas/SQL_Data_Query))
 
 
 
