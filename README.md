@@ -3,7 +3,7 @@
 <!-- Presentation -->
 ### About me
 
-  Data Analytics student with a Civil Engineering background, currently based in Ireland. Passionate about turning data into actionable insights.
+  Data Analytics student with a Civil Engineering background. Passionate about turning data into actionable insights.
 <!-- Links -->
 [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermefreitas-eng)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=Behance&logoColor=white)](https://behance.net/Tinhasdodesign) 
