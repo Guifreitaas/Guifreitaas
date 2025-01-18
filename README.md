@@ -7,8 +7,9 @@
 <p>
   Hi 👋, I'm Guilherme, a passionate Data and Engineering!
 
-  - 👨‍💻 I’m currently studying for a Higher Diploma in Science in Data Analytics at City College in Dublin.
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with Data Analyst. 
+  ▪ 👨‍💻 I’m currently studying for a Higher Diploma in Science in Data Analytics at City College in Dublin.  
+  ▪ 🔭 I am looking for my first job opportunity. My dream is to one day work as a Data Analyst.
+
 </p>
 
 <!-- Dropdown -->
@@ -35,11 +36,13 @@
 ## Portfolio:
  [Querying and Analyzing - Shopping Trend](https://github.com/Guifreitaas/SQL_Data_Query)
 
+<!-- Certifications -->
 
 ## Certifications
 
-- Google Data Analytics Professional Certificate
-- Microsoft Certified: Power BI Data Analyst Associate
+▪ Google Data Analytics Professional Certificate  
+▪ Microsoft Certified: Power BI Data Analyst Associate
+
 
 ## Skills
 
