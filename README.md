@@ -25,7 +25,7 @@
 </div>
 <!-- Portfolio -->
 
-## 📚 Portfolio:
+## 📚 Portfolio
  [Querying and Analyzing - Shopping Trend](https://github.com/Guifreitaas/SQL_Data_Query)
 
 <!-- Certifications -->
