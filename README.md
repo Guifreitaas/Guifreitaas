@@ -26,7 +26,8 @@
 <!-- Portfolio -->
 
 ## 📚 Portfolio
- [Querying and Analyzing - Shopping Trend](https://github.com/Guifreitaas/SQL_Data_Query)
+ [Querying and Analyzing - Shopping Trend](https://github.com/Guifreitaas/SQL_Data_Query)   
+ [Project Perfomance - Warehouse Expansion](https://github.com/Guifreitaas/Project_Perfomance/tree/main)
 
 <!-- Certifications -->
 
